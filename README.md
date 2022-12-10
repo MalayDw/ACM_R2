@@ -7,10 +7,10 @@ for app Dev:
    I decided to learn native android app development as native app development is more preferred in major industries,
     but I am willing to learn flutter and cross-platform development in the coming future.
     
-   I started learning app dev from devleoper.android.com and made two basic apps along with the course while doing adjustments of my own. Now that I now the basics of android     app development I am willing to work on bigger projects
-    and make better apps.     I 
+   I started learning app dev from devleoper.android.com and made two basic apps along with the course while doing adjustments of my own. Now that I know the basics of android     app development I am willing to work on bigger projects
+    and make better apps.      
     
-   I uploaded the whole project along with the and i have given apk and main code file as well.
+   I uploaded the whole project along with the main code file and  apk.
 
 
 for AI/ML:  
