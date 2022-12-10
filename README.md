@@ -9,6 +9,8 @@ for app Dev:
     
    I started learning app dev from devleoper.android.com and made two basic apps along with the course while doing adjustments of my own. Now that I now the basics of android     app development I am willing to work on bigger projects
     and make better apps.     I 
+    
+   I uploaded the whole project along with the and i have given apk and main code file as well.
 
 
 for AI/ML:  
